@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "DeviceInfoApp",
+    "slug": "DeviceInfoApp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "9289459f-fb26-4dc3-8e68-e1fa4adb82a8"
+      }
+    }
+  }
+}
