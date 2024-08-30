@@ -1,12 +1,13 @@
 {
   "expo": {
     "name": "DeviceInfoApp",
-    "slug": "DeviceInfoApp",
+    "slug": "find-me",
     "version": "1.0.0",
     "extra": {
       "eas": {
-        "projectId": "9289459f-fb26-4dc3-8e68-e1fa4adb82a8"
+        "projectId": "29715cdb-6047-43e7-aad7-1a5a7b5d7c88"
       }
-    }
+    },
+    "owner": "thejaryan"
   }
 }

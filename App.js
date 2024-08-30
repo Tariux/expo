@@ -197,7 +197,7 @@ const styles = StyleSheet.create({
   label: {
     fontWeight: 'bold',
     marginRight: 10,
-  },
+  }, 
   value: {
     flex: 1,
   },
